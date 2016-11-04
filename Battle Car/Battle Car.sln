@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle Car.CSharp.Plugins", "Battle Car.CSharp.Plugins.csproj", "{324AF8A8-8B62-A73E-27F5-6F34F47F2855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle Car.CSharp", "Battle Car.CSharp.csproj", "{A9A9AEBB-C14F-7473-E7CF-75C3C909BE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle Car.CSharp.Editor", "Battle Car.CSharp.Editor.csproj", "{CC5B9E0B-C4DA-F8A6-FB4C-25CB43BC33EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324AF8A8-8B62-A73E-27F5-6F34F47F2855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324AF8A8-8B62-A73E-27F5-6F34F47F2855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324AF8A8-8B62-A73E-27F5-6F34F47F2855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324AF8A8-8B62-A73E-27F5-6F34F47F2855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A9AEBB-C14F-7473-E7CF-75C3C909BE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A9AEBB-C14F-7473-E7CF-75C3C909BE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A9AEBB-C14F-7473-E7CF-75C3C909BE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A9AEBB-C14F-7473-E7CF-75C3C909BE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5B9E0B-C4DA-F8A6-FB4C-25CB43BC33EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5B9E0B-C4DA-F8A6-FB4C-25CB43BC33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5B9E0B-C4DA-F8A6-FB4C-25CB43BC33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5B9E0B-C4DA-F8A6-FB4C-25CB43BC33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

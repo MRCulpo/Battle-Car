@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FUN TUTORIAL PACK/Scenes/carlights_tutorial.unity
+  isLoaded: 1
+  isActive: 1
